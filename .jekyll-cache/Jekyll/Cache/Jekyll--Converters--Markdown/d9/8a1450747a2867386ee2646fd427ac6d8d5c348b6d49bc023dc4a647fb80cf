@@ -1,0 +1,9 @@
+I"�<p>layout: post
+title: “POST TITLE”
+date: YYYY-MM-DD hh:mm:ss -0000
+categories: CATEGORY-1 CATEGORY-2</p>
+
+<h1 id="first-post">First Post</h1>
+
+<p><strong>This is a test</strong></p>
+:ET
